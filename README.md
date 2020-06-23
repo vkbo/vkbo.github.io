@@ -1,2 +1,3 @@
-# vkbo.github.io
-My profile website
+# Veronica Berglyd Olsen
+
+Personal website [vkbo.github.io](vkbo.github.io).

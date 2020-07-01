@@ -2,6 +2,10 @@
 
 - title: Home
   url: /
+- title: Blog
+  url: http://berglyd.net/
+- title: Publications
+  url: /publications/
 # - title: Posts
 #   url: /posts/
 # - title: Categories

@@ -2,6 +2,7 @@
 title: "Publications"
 sitemap: false
 permalink: /publications/
+image: /assets/images/banner.jpg
 ---
 
 ## Academic Work

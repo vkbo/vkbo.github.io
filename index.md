@@ -33,5 +33,5 @@ I've mostly stopped using social media, but you can still find me on Twitter as 
 {: style="text-align: justify;"}
 
 _The banner photo is from [Vigdelstranden](https://www.google.com/maps/place/58%C2%B051'37.0%22N+5%C2%B033'33.5%22E/), Sola, Norway (2019), and taken by Veronica Berglyd Olsen._
-_The profile photo is by [Amy Davies Roth](https://surlyramics.com), and taken at her studio in LA, USA (2014)._
+_The profile photo is by [Amy Davis Roth](https://surlyramics.com), and taken at her studio in LA, USA (2014)._
 {: style="text-align: justify;"}

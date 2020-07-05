@@ -10,7 +10,8 @@ image: /assets/images/home-banner.jpg
 
 Hi there, my name is Veronica Berglyd Olsen, and welcome to my personal website!
 
-I grew up on the coast of South-Western Norway, but I have lived both in Sydney, Australia and on the French side of the Geneva valley on the Swiss-French border for several years of my life.
+I'm from Norway, and I grew up on the South-Western coast.
+I've also lived in Sydney, Australia for two years, and on the French side of the Geneva valley on the Swiss-French border for four.
 I currently live in Oslo, Norway.
 {: style="text-align: justify;"}
 
@@ -19,8 +20,8 @@ You can see some about my academic work on the [Publications](/publications/) pa
 I currently work as a Senior Engineer at the Norwegian Meteorological Institute, where I mostly work with computer simulations, High Performance Computing and Machine Learning.
 {: style="text-align: justify;"}
 
-I also love to write, and I'm a big Science-Fiction fan.
-I’ve had numerous blogs over the years, and I’ve written essays for various publications and blog networks.
+I love to write, and I'm a big Science-Fiction fan.
+I’ve also had numerous blogs over the years, and I’ve written essays for various publications and blog networks.
 These days I mostly work on my own novel projects.
 I'm often working on an open source application for writing novels called [novelWriter](https://github.com/vkbo/novelWriter).
 You can find a lot of my other programming work on my [GitHub](https://github.com/vkbo) page.

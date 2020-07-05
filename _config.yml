@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-GB
 title: "Veronica Berglyd Olsen"
-description: "Welcome to my personal profile website ..."
+description: "A Personal Profile Website"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /assets/images/photo200.png
@@ -112,15 +112,15 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/DrBerglyd
     icon: fab fa-twitter-square
-  # - title: Instagram
-  #   url: https://www.instagram.com/dr.berglyd
-  #   icon: fab fa-instagram
   - title: Goodreads
     url: https://www.goodreads.com/user/show/46372019-veronica-olsen
     icon: fab fa-goodreads
   - title: GitHub
     url: https://github.com/vkbo
     icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/veronicakbolsen
+    icon: fab fa-linkedin
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

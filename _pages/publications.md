@@ -2,7 +2,7 @@
 title: "Publications"
 sitemap: false
 permalink: /publications/
-image: /assets/images/banner.jpg
+image: /assets/images/publications-banner.jpg
 ---
 
 ## Academic Work
@@ -19,7 +19,7 @@ Switzerland)
 [PDF](https://ipac2019.vrws.de/papers/wepts026.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2019-WEPTS026](http://dx.doi.org/10.18429/JACoW-IPAC2019-WEPTS026)
+[10.18429/JACoW-IPAC2019-WEPTS026](http://dx.doi.org/10.18429/JACoW-IPAC2019-WEPTS026)
 {: style="text-align: right;"}
 
 
@@ -35,7 +35,7 @@ Norway)
 [PDF](https://ipac2019.vrws.de/papers/wepts043.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2019-WEPTS043](http://dx.doi.org/10.18429/JACoW-IPAC2019-WEPTS043)
+[10.18429/JACoW-IPAC2019-WEPTS043](http://dx.doi.org/10.18429/JACoW-IPAC2019-WEPTS043)
 {: style="text-align: right;"}
 
 
@@ -49,7 +49,7 @@ Milano, Milano, Italy), R. De Maria, V.K. Berglyd Olsen, (CERN, Geneva, Switzerl
 [PDF](https://ipac2019.vrws.de/papers/mopgw012.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2019-MOPGW012](http://dx.doi.org/10.18429/JACoW-IPAC2019-MOPGW012)
+[10.18429/JACoW-IPAC2019-MOPGW012](http://dx.doi.org/10.18429/JACoW-IPAC2019-MOPGW012)
 {: style="text-align: right;"}
 
 
@@ -83,7 +83,7 @@ P. V. Tuev, F. Velotti, L. Verra, V. A. Verzilov, J. Vieira, H. Vincke, C. P. We
 [PDF](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.054801)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1103/PhysRevLett.122.054801](http://dx.doi.org/10.1103/PhysRevLett.122.054801)
+[10.1103/PhysRevLett.122.054801](http://dx.doi.org/10.1103/PhysRevLett.122.054801)
 {: style="text-align: right;"}
 
 
@@ -106,7 +106,7 @@ M. Turner, F. Velotti, L. Verra, V. A. Verzilov, J. Vieira, H. Vincke, C. P. Wel
 [PDF](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.122.054802)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1103/PhysRevLett.122.054802](http://dx.doi.org/10.1103/PhysRevLett.122.054802)
+[10.1103/PhysRevLett.122.054802](http://dx.doi.org/10.1103/PhysRevLett.122.054802)
 {: style="text-align: right;"}
 
 
@@ -124,7 +124,7 @@ University of Oslo, Oslo, Norway), I. Zacharov, (EPFL, Lausanne, Switzerland), S
 [PDF](http://jacow.org/icap2018/papers/tupaf02.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-ICAP2018-TUPAF02](http://dx.doi.org/10.18429/JACoW-ICAP2018-TUPAF02)
+[10.18429/JACoW-ICAP2018-TUPAF02](http://dx.doi.org/10.18429/JACoW-ICAP2018-TUPAF02)
 {: style="text-align: right;"}
 
 
@@ -146,7 +146,7 @@ B. Woolley & G. Xia
 [PDF](https://www.nature.com/articles/s41586-018-0485-4.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1038/s41586-018-0485-4](http://dx.doi.org/10.1038/s41586-018-0485-4)
+[10.1038/s41586-018-0485-4](http://dx.doi.org/10.1038/s41586-018-0485-4)
 {: style="text-align: right;"}
 
 
@@ -160,7 +160,7 @@ J.F. Wagner, S.J. Wretborn
 [PrePrint](http://arxiv.org/abs/1808.06248)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.23732/CYRCP-2018-002](http://dx.doi.org/10.23732/CYRCP-2018-002)
+[10.23732/CYRCP-2018-002](http://dx.doi.org/10.23732/CYRCP-2018-002)
 {: style="text-align: right;"}
 
 
@@ -173,7 +173,7 @@ Authors: B. Lindstrom, H. Burkhardt, V.K.B. Olsen, A. Santamaría García, K.N. 
 [PDF](http://jacow.org/ipac2018/papers/mopmf042.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2018-MOPMF042](http://dx.doi.org/10.18429/JACoW-IPAC2018-MOPMF042)
+[10.18429/JACoW-IPAC2018-MOPMF042](http://dx.doi.org/10.18429/JACoW-IPAC2018-MOPMF042)
 {: style="text-align: right;"}
 
 
@@ -190,7 +190,7 @@ Munich, Germany and CERN, Geneva, Switzerland).
 [PDF](https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.21.011301)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1103/PhysRevAccelBeams.21.011301](http://dx.doi.org/10.1103/PhysRevAccelBeams.21.011301)
+[10.1103/PhysRevAccelBeams.21.011301](http://dx.doi.org/10.1103/PhysRevAccelBeams.21.011301)
 {: style="text-align: right;"}
 
 
@@ -215,7 +215,7 @@ M. Wing, G. Xia, H. Zhang.
 [PDF](http://vkbo.net/files/muggli_awake_2017.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1088/1361-6587/aa941c](http://dx.doi.org/10.1088/1361-6587/aa941c)
+[10.1088/1361-6587/aa941c](http://dx.doi.org/10.1088/1361-6587/aa941c)
 {: style="text-align: right;"}
 
 
@@ -231,7 +231,7 @@ _Note: The published PDF is broken. The PDF link below links to a working versio
 [PDF](http://vkbo.net/files/IPAC17-TUPIK061.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2017-TUPIK061](http://dx.doi.org/10.18429/JACoW-IPAC2017-TUPIK061)
+[10.18429/JACoW-IPAC2017-TUPIK061](http://dx.doi.org/10.18429/JACoW-IPAC2017-TUPIK061)
 {: style="text-align: right;"}
 
 
@@ -247,7 +247,7 @@ Germany and CERN, Geneva, Switzerland), J. M. Vieira (Instituto Superior Technic
 [PDF](http://accelconf.web.cern.ch/AccelConf/napac2016/papers/tua4co03.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-NAPAC2016-TUA4CO03](http://dx.doi.org/10.18429/JACoW-NAPAC2016-TUA4CO03)
+[10.18429/JACoW-NAPAC2016-TUA4CO03](http://dx.doi.org/10.18429/JACoW-NAPAC2016-TUA4CO03)
 {: style="text-align: right;"}
 
 
@@ -268,7 +268,7 @@ V. Verzilov, J. Vieira, H. Vincke, Y. Wei, C.P. Welsch, M. Wing, G. Xia, H. Zhan
 [PrePrint](http://arxiv.org/abs/1512.05498)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1016/j.nima.2016.02.026](http://dx.doi.org/10.1016/j.nima.2016.02.026)
+[10.1016/j.nima.2016.02.026](http://dx.doi.org/10.1016/j.nima.2016.02.026)
 {: style="text-align: right;"}
 
 
@@ -292,7 +292,7 @@ J. Vieira, H. Vincke, Y. Wei, C.P. Welsch, M. Wing, G. Xia, V. Yakimenko, H. Zha
 [PrePrint](http://arxiv.org/abs/1511.09032)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1016/j.nima.2015.12.050](http://dx.doi.org/10.1016/j.nima.2015.12.050)
+[10.1016/j.nima.2015.12.050](http://dx.doi.org/10.1016/j.nima.2015.12.050)
 {: style="text-align: right;"}
 
 
@@ -307,7 +307,7 @@ O. Williams
 [PDF](http://vkbo.net/files/adli_progress_2016.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.1016/j.nima.2016.02.075](http://dx.doi.org/10.1016/j.nima.2016.02.075)
+[10.1016/j.nima.2016.02.075](http://dx.doi.org/10.1016/j.nima.2016.02.075)
 {: style="text-align: right;"}
 
 
@@ -325,7 +325,7 @@ N.C. Lopes, L.O. Silva, J. Vieira (Instituto Superior Tecnico, Lisbon, Portugal)
 [PDF](http://jacow.org/ipac2015/papers/wepwa008.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2015-WEPWA008](http://dx.doi.org/10.18429/JACoW-IPAC2015-WEPWA008)
+[10.18429/JACoW-IPAC2015-WEPWA008](http://dx.doi.org/10.18429/JACoW-IPAC2015-WEPWA008)
 {: style="text-align: right;"}
 
 
@@ -339,7 +339,7 @@ Jorge Miguel Vieira (Instituto Superior Tecnico, Lisbon)
 [PDF](http://jacow.org/ipac2015/papers/wepwa026.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2015-WEPWA026](http://dx.doi.org/10.18429/JACoW-IPAC2015-WEPWA026)
+[10.18429/JACoW-IPAC2015-WEPWA026](http://dx.doi.org/10.18429/JACoW-IPAC2015-WEPWA026)
 {: style="text-align: right;"}
 
 
@@ -357,7 +357,7 @@ Veronica K. Berglyd Olsen (University of Oslo, Oslo)
 [PDF](http://jacow.org/ipac2014/papers/tupme050.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
-[DOI:10.18429/JACoW-IPAC2014-TUPME050](http://dx.doi.org/10.18429/JACoW-IPAC2014-TUPME050)
+[10.18429/JACoW-IPAC2014-TUPME050](http://dx.doi.org/10.18429/JACoW-IPAC2014-TUPME050)
 {: style="text-align: right;"}
 
 

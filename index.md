@@ -22,7 +22,8 @@ I currently work as a Senior Engineer at the Norwegian Meteorological Institute,
 
 I love to write, and I'm a big Science-Fiction fan.
 I’ve also had numerous blogs over the years, and I’ve written essays for various publications and blog networks.
-These days I mostly work on my own novel projects.
+I've served as a board member for a national LGBTQ+ organisation and its local branch, and been involved in local politics.
+These days, I mostly work on my own novel projects.
 I'm often working on an open source application for writing novels called [novelWriter](https://github.com/vkbo/novelWriter).
 You can find a lot of my other programming work on my [GitHub](https://github.com/vkbo) page.
 {: style="text-align: justify;"}

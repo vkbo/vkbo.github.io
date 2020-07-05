@@ -212,7 +212,7 @@ R. I. Spitsyn, K. Szczurek, J. Thomas, P. V. Tuev, M. Turner, V. Verzilov, J. Vi
 M. Wing, G. Xia, H. Zhang.
 
 ![PDF](/assets/images/icon_pdf.png){: style="height: 15px;"}
-[PDF](http://vkbo.net/files/muggli_awake_2017.pdf)
+[PDF](http://vkbo.net/assets/files/muggli_awake_2017.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
 [10.1088/1361-6587/aa941c](http://dx.doi.org/10.1088/1361-6587/aa941c)
@@ -228,7 +228,7 @@ Switzerland).
 _Note: The published PDF is broken. The PDF link below links to a working version._
 
 ![PDF](/assets/images/icon_pdf.png){: style="height: 15px;"}
-[PDF](http://vkbo.net/files/IPAC17-TUPIK061.pdf)
+[PDF](http://vkbo.net/assets/files/IPAC17-TUPIK061.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
 [10.18429/JACoW-IPAC2017-TUPIK061](http://dx.doi.org/10.18429/JACoW-IPAC2017-TUPIK061)
@@ -304,7 +304,7 @@ S.Z. Green, M.J. Hogan, M.D. Litos, B.D. O׳Shea, V. Yakimenko, C. Clayton, K.A.
 O. Williams
 
 ![PDF](/assets/images/icon_pdf.png){: style="height: 15px;"}
-[PDF](http://vkbo.net/files/adli_progress_2016.pdf)
+[PDF](http://vkbo.net/assets/files/adli_progress_2016.pdf)
 |
 ![DOI](/assets/images/icon_doi.png){: style="height: 15px;"}
 [10.1016/j.nima.2016.02.075](http://dx.doi.org/10.1016/j.nima.2016.02.075)

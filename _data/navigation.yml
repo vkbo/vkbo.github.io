@@ -3,7 +3,9 @@
 - title: Home
   url: /
 - title: Blog
-  url: http://berglyd.net/
+  url: https://berglyd.net/
+- title: Contact
+  url: https://berglyd.net/contact-me/
 - title: Publications
   url: /publications/
 # - title: Posts

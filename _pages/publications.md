@@ -370,5 +370,5 @@ Authors: Veronica K. Berglyd Olsen, University of Oslo. Thesis advisor: Morten H
 University.
 
 ![PDF](/assets/images/icon_pdf.png){: style="height: 15px;"}
-[PDF](https://www.duo.uio.no/bitstream/handle/10852/34217/vkb-olsen.pdf)
+[PDF](/assets/files/master-thesis_2012.pdf)
 {: style="text-align: right;"}

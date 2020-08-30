@@ -109,15 +109,15 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/DrBerglyd
-    icon: fab fa-twitter-square
-  - title: Goodreads
-    url: https://www.goodreads.com/user/show/46372019-veronica-olsen
-    icon: fab fa-goodreads
+  - title: Blog
+    url: https://berglyd.net/
+    icon: fas fa-pen-square
   - title: GitHub
     url: https://github.com/vkbo
     icon: fab fa-github-square
+  - title: Goodreads
+    url: https://www.goodreads.com/user/show/46372019-veronica-olsen
+    icon: fab fa-goodreads
   - title: LinkedIn
     url: https://www.linkedin.com/in/veronicakbolsen
     icon: fab fa-linkedin

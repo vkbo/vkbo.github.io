@@ -30,8 +30,8 @@ As a programmer and writer, I've spent a lot of time developing an open source a
 {: style="text-align: justify;"}
 
 If you wonder what else I've worked with in the past, head over to my [LinkedIn](https://www.linkedin.com/in/veronicakbolsen)
-profile. I've pretty mush stopped using social media, and the closest I have to a social media account these days is my
-[goodreads](https://www.goodreads.com/user/show/46372019-veronica-olsen) account,
+profile. I've pretty mush stopped using social media, so the closest I have to a social media account these days is my
+[Goodreads](https://www.goodreads.com/user/show/46372019-veronica-olsen) account.
 {: style="text-align: justify;"}
 
 _The banner photo is from [Vigdelstranden](https://www.google.com/maps/place/58%C2%B051'37.0%22N+5%C2%B033'33.5%22E/), Sola, Norway

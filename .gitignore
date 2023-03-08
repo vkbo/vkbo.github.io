@@ -1,0 +1,7 @@
+# Build Output
+_build/
+_html/
+
+# Python
+__pycache__
+*.pyc
